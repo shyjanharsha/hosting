@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,aACE,YAAa,CACb,UACF,CACA,OACE,gBACF,CACA,KACE,gBACF","file":"main.43acbfd6.chunk.css","sourcesContent":[".flexdisplay{\n  display: flex;\n  width: 100%;\n}\n#space{\n  margin-left: 10px;\n}\n#gap{\n  margin-left: 30px;\n}"]}
