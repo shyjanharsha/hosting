@@ -1,0 +1,10 @@
+.flexdisplay{
+  display: flex;
+  width: 100%;
+}
+#space{
+  margin-left: 10px;
+}
+#gap{
+  margin-left: 30px;
+}
